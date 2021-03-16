@@ -6,7 +6,7 @@ Getting Started documents for students interested in Physical Computing, or the 
 
 ## Tools
 
-* Anaconda Navigator
+* [Anaconda Navigator](https://www.anaconda.com/products/individual)
   * Jupyter Notebook
   * Terminal (MacOS) / Powershell (Windows 10)
 
