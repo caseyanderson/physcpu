@@ -54,4 +54,3 @@
 5. In Finder navigate to `Terminal`, launch it
 6. Activate the `physcpu` `Environment` in the `Terminal`: `conda activate physcpu`
 
-

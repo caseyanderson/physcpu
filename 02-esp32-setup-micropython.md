@@ -1,4 +1,4 @@
-# ESP32 Setup for Micropython"
+# ESP32 Setup for Micropython
 
 ## Materials
 * laptop (MacOS or Windows 10)
